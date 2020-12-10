@@ -9,6 +9,8 @@ To have better understanding in this work, I introduce sections as follows:
 - [Parameters](#parameters)
 - [Results](#results)
 
+See [this notebook](q_agent_mdp.ipynb) for better understanding.
+
 ## Reinforcement learning
 <p align="center" width="100%">
 <img width="50%" src="https://dzone.com/storage/temp/6976061-screen-shot-2017-10-20-at-22200-pm.png">
