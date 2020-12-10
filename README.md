@@ -19,7 +19,7 @@ The reinforcement learning approach selects actions that maximize expected rewar
 ## Problem modeling with MDP
 Assume that the environment of the problem is fully observable. Precisely, we can get all informations concerning all states (from begin to termianl states) and all state-to-state transitions. Therefore, we can formulate a generic MDP model. An example MDP can be represented as the following graph:
 <p align="center" width="100%">
-<img width="50%" src="https://www.mathworks.com/help/examples/rl/win64/RLGenericMDPExample_01.png">
+<img width="50%" src="RLGenericMDPExample.png">
 </p>
 <p align="center" width="100%">MDP Environment</p>
 From this example, at each state there is a decision to go up or down. The agent begins from state 1. The state 7 and 8 are terminal states. The agent receives a reward equal to the value on each transition in the graph.
